@@ -1,10 +1,10 @@
 import React from 'react'
-
+import colorNames from 'colornames'
 const HexValue = ({color}) => {
 
   return (
     <div>
-        {`Empty Value`}
+        {(color) ? colorNames(color) : `Empty Value`}
     </div>
   )
 }
