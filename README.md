@@ -1,2 +1,2 @@
-# Color-Generator
-color generator is an app that generates color based on the color name inputed by a user.
+# Materail Ui App.
+Working on my first material ui theme.
