@@ -13,7 +13,7 @@ const useStyles = makeStyles()((theme) => {
       margin: '50px 0 0 0'
     },
     barStyle : {
-      margin: '0 0 50px 0'
+      margin: '0 0 100px 0'
     },
     sectionStyle: {
       width : '100%',
